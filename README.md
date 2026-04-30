@@ -1,2 +1,2 @@
 # Traffic-Offense-Management-System
-The system is designed to address traffic offenders
+The primary expected goal of the system is to digitally manage traffic offenders and traffic offense records in one centralized platform.
